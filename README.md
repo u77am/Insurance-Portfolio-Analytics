@@ -9,8 +9,7 @@
 
 [Features](#-key-features) • [Dashboard Views](#-dashboard-overview) • [Data Model](#-data-architecture) • [Contact](#-contact)
 
-### 🌐 **View Live Interactive Report**
-
+### 🌐 [**View Live Interactive Report**](https://app.powerbi.com/groups/3ad17ba2-818f-4f61-8c2b-34f46bb00b8d/reports/60a99caa-ecaf-4a4a-ae8e-639a661747ac/004d6a2a3d56b8b90ad0?experience=power-bi)
 💡 **Feel free to explore the `.pbix` file and adapt it to your own customer datasets!**
 
 </div>
